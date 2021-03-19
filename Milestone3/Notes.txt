@@ -1,0 +1,8 @@
+Good things:
+1. Shallow Navigation.
+2. Anchors for embedded sections.
+3. Use of colours to differentiate the pages.
+
+To be modified:
+1. Twitter icon is distracting where it is.
+2. Twitter icon should be smaller.
